@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Tarrant County Race and Poverty Zones](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<pdf/TERM PROJECT .pdf>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
