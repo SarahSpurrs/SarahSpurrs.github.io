@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Project Reports 
 
 [Tarrant County Race and Poverty Zones](/sample_page)
 <pdf/TERM PROJECT .pdf>
